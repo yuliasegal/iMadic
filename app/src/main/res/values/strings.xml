@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">iMadic</string>
+
+    <string name="button_send">Finish</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a medication</string>
+    <string name="title_activity_display_message">Add Medication</string>
+    <string name="title_activity_interactions">Possible Interactions</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_add" />
+    <string name="action_check" />
+</resources>
